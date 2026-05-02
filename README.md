@@ -6,6 +6,11 @@ Continuation of Faenza icon theme with up to date app icons
 ## Installation
 Clone or download the repo and move the containing folders to your `~/.local/share/icons` directory, or to `/usr/share/icons` (needs root access).
 
+# Latest
+Updated icons, including FreeCAD with new logo and added OrcaSlicer.
+
+Also added a vibe-coded (Claude) `install-icon.sh` to quickly distribute new icons into the folders. Just for quick development on my end.
+
 # Coming Soon
 
 ## New Icons
